@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38258509079",
+    "project_id": "flutterscanner-830ad",
+    "storage_bucket": "flutterscanner-830ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38258509079:android:4d1d8a672446885e1d6352",
+        "android_client_info": {
+          "package_name": "com.example.flutter_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38258509079-g9ensb6af2fqv121d9g3hcpknevin2l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQvqQwA2yz-ED3xo-FgdyR2QEyc9-RQ7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38258509079-g9ensb6af2fqv121d9g3hcpknevin2l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
