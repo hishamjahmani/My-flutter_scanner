@@ -8,13 +8,7 @@ class AuthService {
   final FirebaseAuth _auth = FirebaseAuth.instance;
   String error = "Great";
 
-  List<AppUser> users = [
-    AppUser(uid: 'VJlx0ifrnIYDzjnzuibSdpqDDvJ3',userName:'Hisham',userSection: 'Electronics'),
-    AppUser(uid: '', userName:'Jehad', userSection: 'Mechanics'),
-    AppUser(uid: '', userName:'Wardat', userSection: 'Stationary'),
-    AppUser(uid: '', userName:'Asama', userSection: 'Medical'),
-    AppUser(uid: '', userName:'Jamal', userSection: 'Equipment'),
-  ];
+  
 
   //create user obj based on FirebaseUser
   AppUser _userFromFirebaseUser(User user){
